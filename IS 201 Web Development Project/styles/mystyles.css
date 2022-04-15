@@ -1,4 +1,4 @@
-/* Chase Rindlisbacher 4/12/22 */
+/* Chase Rindlisbacher 4/15/22 */
 
 body {
     background-color: aliceblue;
@@ -9,10 +9,31 @@ h1 {
 }
 
 p {
-    color:black;
+    color:blue;
 }
 
 span.subheading {
     color:rgb(130, 161, 255);
     font-style: bold;
+}
+
+img.aboutpg {
+    vertical-align: top;
+    float: right;
+    left: 5px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+
+img.beside {
+    vertical-align: top;
+    margin-left: 5px;
+}
+
+.anchorref {
+    font-size: smaller !important;
+}
+
+a:visited {
+    color:rgb(255, 104, 104) !important;
 }
