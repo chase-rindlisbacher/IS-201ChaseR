@@ -4,3 +4,15 @@ body {
     background-color: aliceblue;
 }
 
+h1 {
+    color:rgb(130, 161, 255);
+}
+
+p {
+    color:black;
+}
+
+span.subheading {
+    color:rgb(130, 161, 255);
+    font-style: bold;
+}
