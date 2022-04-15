@@ -2,8 +2,10 @@
 
 body {
     background-color: aliceblue;
-    font-size:larger;
-    color:rgb(137, 0, 0);
-    font-style:bold;
 }
 
+a{
+    color:rgb(137, 0, 0);
+    font-style:bold;
+    font-size:larger;
+}
