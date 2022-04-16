@@ -4,8 +4,20 @@ body {
     background-color: aliceblue;
 }
 
+.bodyheader {
+    font-size: larger;
+    color:blue;
+    text-decoration: underline;
+}
+
 h1 {
     color:rgb(130, 161, 255);
+}
+
+.resume {
+    font-size:larger;
+    color:blue; 
+    text-decoration: underline;
 }
 
 p {
