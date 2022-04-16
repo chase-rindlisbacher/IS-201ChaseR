@@ -21,4 +21,23 @@ ul {
   
   li a:hover {
     background-color: #111;
+    font-size:15pt;
+
   }
+
+  .backgroundimg {
+    background-image: url('../images/tableau\ background.jpg');
+  }
+
+  .extref {
+    font-size: 15pt;
+    text-align: bottom;
+    font-style: bold;
+}
+
+.tableaugrid {
+  margin-top: 1em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+}

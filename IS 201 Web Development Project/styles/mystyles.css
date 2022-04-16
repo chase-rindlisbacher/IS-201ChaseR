@@ -37,3 +37,17 @@ img.beside {
 a:visited {
     color:rgb(255, 104, 104) !important;
 }
+
+div.body {
+    text-align:center !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font: size 14pt;
+}
+
+.video {
+    margin-top: 15px;
+}
+
+.extref {
+    font-size: smaller !important;
+}
