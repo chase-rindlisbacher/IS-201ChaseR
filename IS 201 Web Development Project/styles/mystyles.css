@@ -63,3 +63,11 @@ div.body {
 .extref {
     font-size: smaller !important;
 }
+
+.padbelow {
+    padding-bottom: 2em;
+}
+
+.padabove {
+    padding-top: 2em;
+}
