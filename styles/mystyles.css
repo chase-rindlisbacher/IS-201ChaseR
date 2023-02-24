@@ -1,0 +1,73 @@
+/* Chase Rindlisbacher 4/16/22 */
+
+body {
+    background-color: aliceblue;
+}
+
+.bodyheader {
+    font-size: larger;
+    color:blue;
+    text-decoration: underline;
+}
+
+h1 {
+    color:rgb(130, 161, 255);
+}
+
+.resume {
+    font-size:larger;
+    color:blue; 
+    text-decoration: underline;
+}
+
+p {
+    color:blue;
+}
+
+span.subheading {
+    color:rgb(130, 161, 255);
+    font-style: bold;
+}
+
+img.aboutpg {
+    vertical-align: top;
+    float: right;
+    left: 5px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+
+img.beside {
+    vertical-align: top;
+    margin-left: 5px;
+}
+
+.anchorref {
+    font-size: smaller !important;
+}
+
+a:visited {
+    color:rgb(255, 104, 104) !important;
+}
+
+div.body {
+    text-align:center !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font: size 14pt;
+}
+
+.video {
+    margin-top: 15px;
+}
+
+.extref {
+    font-size: smaller !important;
+}
+
+.padbelow {
+    padding-bottom: 2em;
+}
+
+.padabove {
+    padding-top: 2em;
+}
